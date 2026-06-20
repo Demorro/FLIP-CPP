@@ -1,5 +1,7 @@
 # FLIP Fluid Sim
 
+https://github.com/user-attachments/assets/9fb7c1ba-f8bd-4e9b-aa82-1db306af6186
+
 This is a C++ FLIP fluid simulator, heavily inspired by 10 minute physics's example : https://matthias-research.github.io/pages/tenMinutePhysics/18-flip.pdf
 However, the implementation was performed without looking at the reference source code, and without AI assistance.
 
